@@ -1,0 +1,3 @@
+# vjezba
+
+prvi git
